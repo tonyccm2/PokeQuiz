@@ -3,9 +3,9 @@
         "id": 1,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Fuego?",
         "answers": [
-            "Hierba,Hielo,Bicho,Acero",
+            "Planta,Hielo,Bicho,Acero",
             "Agua,Tierra,Roca,Fuego",
-            "Tierra,Agua,Fuego,Hierba",
+            "Tierra,Agua,Fuego,Planta",
             "Roca,Fuego,Agua,Planta"
         ],
         "correctAnswer": 0
@@ -14,254 +14,254 @@
         "id": 2,
         "question": "¿A qué tipos de Pokémon es débil el tipo Fuego?",
         "answers": [
-            "Agua,Roca,Tierra,Fuego",
-            "Tierra,Hierba,Fuego,Agua",
-            "Agua,Tierra,Roca,Fuego",
-            "Roca,Agua,Fuego,Hierba"
+            "Roca,Tierra,Volador",
+            "Planta,Fuego,Agua",
+            "Agua,Roca,Tierra",
+            "Agua,Volador,Planta"
         ],
-        "correctAnswer": "Agua,Roca,Tierra"
+        "correctAnswer": 2
     },
     {
         "id": 3,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Fuego?",
         "answers": [
-            "Ninguno,Fuego,Agua,Planta",
-            "Tierra,Agua,Hierba,Fuego",
-            "Ninguno,Planta,Fuego,Agua",
-            "Agua,Ninguno,Fuego,Tierra"
+            "Normal",
+            "Fuego",
+            "Planta",
+            "Ninguno"
         ],
-        "correctAnswer": "Ninguno"
+        "correctAnswer": 3
     },
     {
         "id": 4,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Agua?",
         "answers": [
-            "Fuego,Tierra,Roca,Agua",
-            "Tierra,Fuego,Hierba,Planta",
-            "Roca,Agua,Fuego,Tierra",
-            "Fuego,Tierra,Roca,Planta"
+            "Fuego,Tierra,Roca",
+            "Tierra,Fuego,Planta",
+            "Roca,Agua,Tierra",
+            "Fuego,Roca,Planta"
         ],
-        "correctAnswer": "Fuego,Tierra,Roca"
+        "correctAnswer": 0
     },
     {
         "id": 5,
         "question": "¿A qué tipos de Pokémon es débil el tipo Agua?",
         "answers": [
-            "Eléctrico,Planta,Fuego,Tierra",
-            "Fuego,Agua,Hierba,Tierra",
-            "Eléctrico,Planta,Tierra,Agua",
-            "Tierra,Eléctrico,Agua,Planta"
+            "Fuego,Tierra",
+            "Fuego,Agua",
+            "Eléctrico,Planta",
+            "Tierra,Eléctrico"
         ],
-        "correctAnswer": "Eléctrico,Planta"
+        "correctAnswer": 2
     },
     {
         "id": 6,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Agua?",
         "answers": [
-            "Ninguno,Fuego,Agua,Planta",
-            "Tierra,Fuego,Ninguno,Planta",
-            "Agua,Fuego,Tierra,Ninguno",
-            "Ninguno,Planta,Tierra,Fuego"
+            "Fuego",
+            "Tierra",
+            "Roca",
+            "Ninguno"
         ],
-        "correctAnswer": "Ninguno"
+        "correctAnswer": 3
     },
     {
         "id": 7,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Planta?",
         "answers": [
-            "Agua,Tierra,Roca,Fuego",
-            "Agua,Tierra,Roca,Fuego",
-            "Fuego,Tierra,Roca,Agua",
-            "Tierra,Agua,Roca,Planta"
+            "Agua,Hielo,Fuego",
+            "Hielo,Tierra,Roca",
+            "Agua,Tierra,Roca",
+            "Planta,Agua,Hielo"
         ],
-        "correctAnswer": "Agua,Tierra,Roca"
+        "correctAnswer": 2
     },
     {
         "id": 8,
         "question": "¿A qué tipos de Pokémon es débil el tipo Planta?",
         "answers": [
-            "Fuego,Volador,Bicho,Veneno",
-            "Bicho,Fuego,Volador,Acero",
-            "Fuego,Planta,Agua,Veneno",
-            "Volador,Fuego,Bicho,Veneno"
+            "Fuego,Roca,Bicho,Agua,Tierra",
+            "Fuego,Volador,Bicho,Veneno,Hielo",
+            "Hada,Planta,Agua,Veneno,Hielo",
+            "Roca,Fuego,Bicho,Fantasma,Planta"
         ],
-        "correctAnswer": "Fuego,Volador,Bicho,Veneno"
+        "correctAnswer": 1
     },
     {
         "id": 9,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Planta?",
         "answers": [
-            "Ninguno,Planta,Fuego,Agua",
-            "Tierra,Planta,Fuego,Ninguno",
-            "Planta,Fuego,Agua,Ninguno",
-            "Ninguno,Agua,Planta,Tierra"
+            "Agua",
+            "Tierra",
+            "Planta",
+            "Ninguno"
         ],
-        "correctAnswer": "Ninguno"
+        "correctAnswer": 3
     },
     {
         "id": 10,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Eléctrico?",
         "answers": [
-            "Agua,Volador,Tierra,Roca",
-            "Volador,Agua,Tierra,Hierba",
-            "Tierra,Volador,Agua,Hierba",
-            "Agua,Volador,Tierra,Planta"
+            "Tierra,Roca",
+            "Agua,Planta",
+            "Tierra,Volador",
+            "Agua,Volador"
         ],
-        "correctAnswer": "Agua,Volador"
+        "correctAnswer": 3
     },
     {
         "id": 11,
         "question": "¿A qué tipos de Pokémon es débil el tipo Eléctrico?",
         "answers": [
-            "Tierra,Eléctrico,Agua,Fuego",
-            "Tierra,Planta,Agua,Fuego",
-            "Eléctrico,Tierra,Agua,Planta",
-            "Tierra,Agua,Planta,Eléctrico"
+            "Planta",
+            "Eléctrico",
+            "Tierra",
+            "Agua"
         ],
-        "correctAnswer": "Tierra"
+        "correctAnswer": 2
     },
     {
         "id": 12,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Eléctrico?",
         "answers": [
-            "Tierra,Ninguno,Fuego,Planta",
-            "Tierra,Fuego,Agua,Ninguno",
-            "Ninguno,Tierra,Planta,Fuego",
-            "Tierra,Agua,Fuego,Ninguno"
+            "Planta",
+            "Tierra",
+            "Fuego",
+            "Ninguno"
         ],
-        "correctAnswer": "Tierra"
+        "correctAnswer": 3
     },
     {
         "id": 13,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Hielo?",
         "answers": [
+            "Roca,Volador,Dragón,Fuego",
             "Dragón,Planta,Tierra,Volador",
-            "Tierra,Volador,Dragón,Hierba",
-            "Planta,Dragón,Tierra,Volador",
-            "Volador,Dragón,Tierra,Planta"
+            "Planta,Agua,Roca,Volador",
+            "Volador,Lucha,Tierra,Planta"
         ],
-        "correctAnswer": "Dragón,Planta,Tierra,Volador"
+        "correctAnswer": 1
     },
     {
         "id": 14,
         "question": "¿A qué tipos de Pokémon es débil el tipo Hielo?",
         "answers": [
             "Fuego,Lucha,Roca,Acero",
-            "Roca,Acero,Fuego,Lucha",
-            "Lucha,Fuego,Acero,Roca",
-            "Acero,Lucha,Fuego,Roca"
+            "Tierra,Acero,Fuego,Lucha",
+            "Lucha,Dragón,Acero,Roca",
+            "Acero,Lucha,Fuego,Tierra"
         ],
-        "correctAnswer": "Fuego,Lucha,Roca,Acero"
+        "correctAnswer": 0
     },
     {
         "id": 15,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Hielo?",
         "answers": [
-            "Ninguno,Fuego,Tierra,Planta",
-            "Tierra,Planta,Fuego,Ninguno",
-            "Ninguno,Tierra,Agua,Planta",
-            "Planta,Agua,Tierra,Ninguno"
+            "Tierra",
+            "Fuego",
+            "Planta",
+            "Ninguno"
         ],
-        "correctAnswer": "Ninguno"
+        "correctAnswer": 3
     },
     {
         "id": 16,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Lucha?",
         "answers": [
-            "Normal,Hielo,Roca,Acero",
-            "Acero,Normal,Hielo,Volador",
-            "Normal,Roca,Hielo,Acero",
-            "Hielo,Acero,Normal,Roca"
+            "Normal,Hielo,Tierra,Acero,Siniestro",
+            "Normal,Hielo,Roca,Acero,Siniestro",
+            "Normal,Tierra,Hielo,Acero,Planta",
+            "Hielo,Acero,Normal,Roca,Dragón"
         ],
-        "correctAnswer": "Normal,Hielo,Roca,Acero"
+        "correctAnswer": 1
     },
     {
         "id": 17,
         "question": "¿A qué tipos de Pokémon es débil el tipo Lucha?",
         "answers": [
-            "Volador,Psíquico,Hada,Fuego",
-            "Hada,Psíquico,Volador,Bicho",
-            "Psíquico,Hada,Volador,Bicho",
-            "Volador,Hada,Psíquico,Bicho"
+            "Volador,Psíquico,Hada",
+            "Hada,Psíquico,Normal",
+            "Agua,Volador,Bicho",
+            "Hada,Psíquico,Bicho"
         ],
-        "correctAnswer": "Volador,Psíquico,Hada"
+        "correctAnswer": 0
     },
     {
         "id": 18,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Lucha?",
         "answers": [
-            "Fantasma,Psíquico,Hada,Bicho",
-            "Psíquico,Fuego,Fantasma,Hada",
-            "Fantasma,Bicho,Hada,Psíquico",
-            "Bicho,Hada,Fantasma,Psíquico"
+            "Fantasma",
+            "Normal",
+            "Psíquico",
+            "Ninguno"
         ],
-        "correctAnswer": "Fantasma"
+        "correctAnswer": 3
     },
     {
         "id": 19,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Veneno?",
         "answers": [
-            "Planta,Hada,Bicho,Lucha",
-            "Hada,Planta,Lucha,Volador",
-            "Planta,Hada,Lucha,Psíquico",
-            "Hada,Bicho,Planta,Lucha"
+            "Planta,Hada",
+            "Hada,Lucha",
+            "Planta,Lucha",
+            "Hada,Bicho"
         ],
-        "correctAnswer": "Planta,Hada"
+        "correctAnswer": 0
     },
     {
         "id": 20,
         "question": "¿A qué tipos de Pokémon es débil el tipo Veneno?",
         "answers": [
-            "Tierra,Psíquico,Fuego,Hielo",
-            "Psíquico,Tierra,Hielo,Fuego",
-            "Fuego,Hielo,Psíquico,Tierra",
-            "Tierra,Hielo,Psíquico,Agua"
+            "Fuego,Hielo",
+            "Psíquico,Tierra",
+            "Fuego,Agua",
+            "Tierra,Agua"
         ],
-        "correctAnswer": "Tierra,Psíquico"
+        "correctAnswer": 1
     },
     {
         "id": 21,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Veneno?",
         "answers": [
-            "Ninguno,Planta,Fuego,Veneno",
-            "Fuego,Tierra,Ninguno,Planta",
-            "Ninguno,Agua,Fuego,Planta",
-            "Planta,Ninguno,Veneno,Tierra"
+            "Veneno",
+            "Fuego",
+            "Ninguno",
+            "Planta"
         ],
-        "correctAnswer": "Ninguno"
+        "correctAnswer": 2
     },
     {
         "id": 22,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Tierra?",
         "answers": [
-            "Fuego,Eléctrico,Veneno,Acero",
-            "Eléctrico,Fuego,Veneno,Roca",
-            "Veneno,Roca,Fuego,Eléctrico",
-            "Acero,Fuego,Eléctrico,Veneno"
+            "Fuego,Eléctrico,Normal,Veneno,Acero",
+            "Eléctrico,Fuego,Veneno,Roca,Lucha",
+            "Fuego,Eléctrico,Veneno,Acero,Roca",
+            "Acero,Fuego,Eléctrico,Veneno,Hada"
         ],
-        "correctAnswer": "Fuego,Eléctrico,Veneno,Acero"
+        "correctAnswer": 2
     },
     {
         "id": 23,
         "question": "¿A qué tipos de Pokémon es débil el tipo Tierra?",
         "answers": [
-            "Agua,Hielo,Planta,Volador",
-            "Planta,Hielo,Agua,Tierra",
-            "Agua,Hielo,Planta,Fuego",
-            "Hielo,Agua,Planta,Acero"
+            "Hielo,Planta,Volador",
+            "Planta,Hielo,Agua",
+            "Agua,Planta,Fuego",
+            "Hielo,Agua,Acero"
         ],
-        "correctAnswer": "Agua,Hielo,Planta"
+        "correctAnswer": 1
     },
     {
         "id": 24,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Tierra?",
         "answers": [
-            "Eléctrico,Fuego,Agua,Planta",
-            "Planta,Fuego,Eléctrico,Veneno",
-            "Agua,Planta,Eléctrico,Fuego",
-            "Fuego,Eléctrico,Planta,Agua"
+            "Fuego",
+            "Bicho",
+            "Roca",
+            "Eléctrico"
         ],
-        "correctAnswer": "Eléctrico"
+        "correctAnswer": 3
     },
     {
         "id": 25,
@@ -269,328 +269,328 @@
         "answers": [
             "Fuego,Hielo,Volador,Bicho",
             "Hielo,Fuego,Volador,Planta",
-            "Volador,Bicho,Hielo,Fuego",
-            "Bicho,Volador,Fuego,Hierba"
+            "Volador,Agua,Hielo,Fuego",
+            "Bicho,Volador,Fuego,Planta"
         ],
-        "correctAnswer": "Fuego,Hielo,Volador,Bicho"
+        "correctAnswer": 0
     },
     {
         "id": 26,
         "question": "¿A qué tipos de Pokémon es débil el tipo Roca?",
         "answers": [
-            "Agua,Planta,Lucha,Tierra",
-            "Planta,Agua,Tierra,Fuego",
-            "Lucha,Tierra,Planta,Agua",
-            "Tierra,Lucha,Agua,Planta"
+            "Agua,Planta,Fuego,Lucha,Tierra",
+            "Agua,Planta,Lucha,Tierra,Acero",
+            "Lucha,Tierra,Planta,Hada,Normal",
+            "Hielo,Tierra,Lucha,Agua,Planta"
         ],
-        "correctAnswer": "Agua,Planta,Lucha,Tierra"
+        "correctAnswer": 1
     },
     {
         "id": 27,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Roca?",
         "answers": [
-            "Ninguno,Agua,Planta,Fuego",
-            "Fuego,Ninguno,Agua,Planta",
-            "Planta,Ninguno,Agua,Fuego",
-            "Agua,Planta,Fuego,Ninguno"
+            "Tierra",
+            "Planta",
+            "Fuego",
+            "Ninguno"
         ],
-        "correctAnswer": "Ninguno"
+        "correctAnswer": 3
     },
     {
         "id": 28,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Fantasma?",
         "answers": [
-            "Fantasma,Psíquico,Lucha,Normal",
-            "Psíquico,Fantasma,Lucha,Hada",
-            "Fantasma,Lucha,Hada,Psíquico",
-            "Hada,Fantasma,Psíquico,Normal"
+            "Lucha,Normal",
+            "Psíquico,Fantasma",
+            "Hada,Psíquico",
+            "Psíquico,Normal"
         ],
-        "correctAnswer": "Fantasma,Psíquico"
+        "correctAnswer": 1
     },
     {
         "id": 29,
         "question": "¿A qué tipos de Pokémon es débil el tipo Fantasma?",
         "answers": [
-            "Fantasma,Siniestro,Psíquico,Volador",
-            "Siniestro,Fantasma,Psíquico,Bicho",
-            "Psíquico,Volador,Fantasma,Siniestro",
-            "Fantasma,Bicho,Siniestro,Psíquico"
+            "Fantasma,Siniestro",
+            "Psíquico,Bicho",
+            "Psíquico,Volador",
+            "Fantasma,Bicho"
         ],
-        "correctAnswer": "Fantasma,Siniestro"
+        "correctAnswer": 0
     },
     {
         "id": 30,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Fantasma?",
         "answers": [
-            "Normal,Lucha,Psíquico,Bicho",
-            "Lucha,Normal,Psíquico,Veneno",
-            "Normal,Lucha,Bicho,Psíquico",
-            "Psíquico,Lucha,Normal,Veneno"
+            "Psíquico,Bicho",
+            "Psíquico,Veneno",
+            "Normal,Lucha",
+            "Psíquico,Lucha"
         ],
-        "correctAnswer": "Normal,Lucha"
+        "correctAnswer": 2
     },
     {
         "id": 31,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Siniestro?",
         "answers": [
-            "Fantasma,Psíquico,Bicho,Lucha",
-            "Psíquico,Fantasma,Bicho,Normal",
-            "Bicho,Fantasma,Psíquico,Volador",
-            "Fantasma,Bicho,Psíquico,Normal"
+            "Fantasma,Psíquico",
+            "Psíquico,Hada",
+            "Bicho,Fantasma",
+            "Bicho,Psíquico"
         ],
-        "correctAnswer": "Fantasma,Psíquico"
+        "correctAnswer": 0
     },
     {
         "id": 32,
         "question": "¿A qué tipos de Pokémon es débil el tipo Siniestro?",
         "answers": [
-            "Lucha,Bicho,Hada,Roca",
-            "Bicho,Hada,Lucha,Fuego",
-            "Hada,Lucha,Roca,Bicho",
-            "Bicho,Roca,Lucha,Hada"
+            "Fantasma,Fuego,Roca",
+            "Bicho,Lucha,Fuego",
+            "Hada,Lucha,Roca",
+            "Lucha,Bicho,Hada"
         ],
-        "correctAnswer": "Lucha,Bicho,Hada"
+        "correctAnswer": 3
     },
     {
         "id": 33,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Siniestro?",
         "answers": [
-            "Psíquico,Fantasma,Normal,Hada",
-            "Fantasma,Psíquico,Volador,Hada",
-            "Normal,Fantasma,Hada,Psíquico",
-            "Psíquico,Fantasma,Hada,Normal"
+            "Fantasma",
+            "Hada",
+            "Psíquico",
+            "Normal"
         ],
-        "correctAnswer": "Psíquico"
+        "correctAnswer": 2
     },
     {
         "id": 34,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Dragón?",
         "answers": [
-            "Dragón,Hada,Hielo,Fuego",
-            "Hada,Fuego,Hielo,Planta",
-            "Dragón,Hielo,Fuego,Eléctrico",
-            "Hielo,Dragón,Eléctrico,Fuego"
+            "Dragón",
+            "Hada",
+            "Agua",
+            "Volador"
         ],
-        "correctAnswer": "Dragón"
+        "correctAnswer": 0
     },
     {
         "id": 35,
         "question": "¿A qué tipos de Pokémon es débil el tipo Dragón?",
         "answers": [
-            "Hielo,Dragón,Hada,Acero",
-            "Hada,Dragón,Hielo,Roca",
-            "Dragón,Hada,Acero,Hielo",
-            "Hielo,Dragón,Acero,Hada"
+            "Hielo,Dragón,Acero",
+            "Hada,Dragón,Hielo",
+            "Dragón,Lucha,Acero,",
+            "Lucha,Agua,Acero"
         ],
-        "correctAnswer": "Hielo,Dragón,Hada"
+        "correctAnswer": 1
     },
     {
         "id": 36,
-        "question": "¿A qué tipos de Pokémon es inmune el tipo Hada?",
+        "question": "¿A qué tipos de Pokémon es inmune el tipo Dragón?",
         "answers": [
-            "Dragón,Siniestro,Lucha,Bicho",
-            "Hada,Siniestro,Dragón,Lucha",
-            "Siniestro,Hada,Lucha,Dragón",
-            "Dragón,Lucha,Siniestro,Hada"
+            "Dragón",
+            "Hada",
+            "Siniestro",
+            "Ninguno"
         ],
-        "correctAnswer": "Dragón"
+        "correctAnswer": 3
     },
     {
         "id": 37,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Hada?",
         "answers": [
-            "Dragón,Siniestro,Lucha,Hielo",
-            "Siniestro,Lucha,Dragón,Planta",
-            "Lucha,Siniestro,Dragón,Volador",
-            "Dragón,Hielo,Lucha,Volador"
+            "Dragón,Siniestro,Lucha",
+            "Siniestro,Lucha,Planta",
+            "Lucha,Dragón,Volador",
+            "Hielo,Lucha,Volador"
         ],
-        "correctAnswer": "Dragón,Siniestro,Lucha"
+        "correctAnswer": 0
     },
     {
         "id": 38,
         "question": "¿A qué tipos de Pokémon es débil el tipo Hada?",
         "answers": [
-            "Veneno,Acero,Roca,Fuego",
-            "Acero,Veneno,Hielo,Dragón",
-            "Veneno,Hielo,Acero,Dragón",
-            "Fuego,Acero,Veneno,Hielo"
+            "Acero,Roca",
+            "Hielo,Dragón",
+            "Veneno,Hielo",
+            "Acero,Veneno"
         ],
-        "correctAnswer": "Veneno,Acero"
+        "correctAnswer": 3
     },
     {
         "id": 39,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Hada?",
         "answers": [
-            "Dragón,Siniestro,Lucha,Bicho",
-            "Hada,Siniestro,Dragón,Lucha",
-            "Siniestro,Hada,Lucha,Dragón",
-            "Dragón,Lucha,Siniestro,Hada"
+            "Lucha",
+            "Dragón",
+            "Hada",
+            "Siniestro"
         ],
-        "correctAnswer": "Dragón"
+        "correctAnswer": 1
     },
     {
         "id": 40,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Acero?",
         "answers": [
-            "Hada,Roca,Hielo,Bicho",
-            "Roca,Hada,Bicho,Volador",
-            "Hielo,Hada,Bicho,Planta",
-            "Hada,Planta,Hielo,Volador"
+            "Hada,Roca,Hielo",
+            "Hada,Bicho,Volador",
+            "Hielo,Bicho,Planta",
+            "Planta,Hielo,Volador"
         ],
-        "correctAnswer": "Hada,Roca,Hielo,Bicho"
+        "correctAnswer": 0
     },
     {
         "id": 41,
         "question": "¿A qué tipos de Pokémon es débil el tipo Acero?",
         "answers": [
-            "Fuego,Lucha,Tierra,Eléctrico",
-            "Lucha,Tierra,Fuego,Volador",
-            "Eléctrico,Tierra,Lucha,Fuego",
-            "Tierra,Eléctrico,Fuego,Lucha"
+            "Fuego,Lucha,Eléctrico",
+            "Lucha,Tierra,Fuego",
+            "Eléctrico,Tierra,Fuego",
+            "Tierra,Eléctrico,Lucha"
         ],
-        "correctAnswer": "Fuego,Lucha,Tierra"
+        "correctAnswer": 1
     },
     {
         "id": 42,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Acero?",
         "answers": [
-            "Veneno,Agua,Fuego,Tierra",
-            "Tierra,Veneno,Fuego,Agua",
-            "Agua,Veneno,Tierra,Fuego",
-            "Veneno,Fuego,Agua,Tierra"
+            "Volador",
+            "Tierra",
+            "Agua",
+            "Veneno"
         ],
-        "correctAnswer": "Veneno"
+        "correctAnswer": 3
     },
     {
         "id": 43,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Psíquico?",
         "answers": [
-            "Lucha,Veneno,Fuego,Tierra",
-            "Tierra,Fuego,Lucha,Volador",
-            "Veneno,Lucha,Fuego,Planta",
-            "Lucha,Veneno,Planta,Hielo"
+            "Lucha,Tierra",
+            "Tierra,Volador",
+            "Fuego,Volador",
+            "Lucha,Veneno"
         ],
-        "correctAnswer": "Lucha,Veneno"
+        "correctAnswer": 3
     },
     {
         "id": 44,
         "question": "¿A qué tipos de Pokémon es débil el tipo Psíquico?",
         "answers": [
-            "Bicho,Fantasma,Siniestro,Psíquico",
-            "Fantasma,Bicho,Siniestro,Volador",
-            "Bicho,Fantasma,Siniestro,Normal",
-            "Siniestro,Psíquico,Fantasma,Bicho"
+            "Bicho,Fantasma,Siniestro",
+            "Fantasma,Lucha,Siniestro",
+            "Volador,Fantasma,Normal",
+            "Siniestro,Psíquico,Fantasma"
         ],
-        "correctAnswer": "Bicho,Fantasma,Siniestro"
+        "correctAnswer": 0
     },
     {
         "id": 45,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Psíquico?",
         "answers": [
-            "Siniestro,Fantasma,Normal,Hada",
-            "Fantasma,Psíquico,Volador,Hada",
-            "Normal,Fantasma,Hada,Psíquico",
-            "Psíquico,Fantasma,Hada,Normal"
+            "Normal",
+            "Fantasma",
+            "Psíquico",
+            "Ninguno"
         ],
-        "correctAnswer": "Siniestro"
+        "correctAnswer": 3
     },
     {
         "id": 46,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Volador?",
         "answers": [
-            "Planta,Lucha,Bicho,Hierba",
-            "Bicho,Planta,Lucha,Hielo",
-            "Planta,Bicho,Lucha,Hielo",
-            "Hielo,Bicho,Planta,Lucha"
+            "Planta,Lucha,Hielo",
+            "Eléctrico,Roca,Hielo",
+            "Planta,Bicho,Lucha",
+            "Hielo,Roca,Lucha"
         ],
-        "correctAnswer": "Planta,Lucha,Bicho"
+        "correctAnswer": 2
     },
     {
         "id": 47,
         "question": "¿A qué tipos de Pokémon es débil el tipo Volador?",
         "answers": [
-            "Eléctrico,Hielo,Roca,Lucha",
-            "Hielo,Roca,Eléctrico,Lucha",
-            "Roca,Eléctrico,Hielo,Lucha",
-            "Lucha,Hielo,Roca,Eléctrico"
+            "Hielo,Eléctrico,Lucha",
+            "Eléctrico,Roca,Hielo",
+            "Tierra,Insecto,Hielo",
+            "Insecto,Fuego,Roca"
         ],
-        "correctAnswer": "Eléctrico,Hielo,Roca"
+        "correctAnswer": 1
     },
     {
         "id": 48,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Volador?",
         "answers": [
-            "Lucha,Planta,Insecto,Eléctrico",
-            "Insecto,Lucha,Planta,Fuego",
-            "Planta,Insecto,Fuego,Lucha",
-            "Fuego,Lucha,Insecto,Planta"
+            "Tierra",
+            "Insecto",
+            "Planta",
+            "Fuego"
         ],
-        "correctAnswer": "Insecto,Planta"
+        "correctAnswer": 0
     },
     {
         "id": 49,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Bicho?",
         "answers": [
-            "Planta,Psiquico,Tierra,Lucha",
-            "Psíquico,Lucha,Planta,Volador",
-            "Planta,Lucha,Psiquico,Volador",
-            "Volador,Planta,Lucha,Psiquico"
+            "Planta,Tierra,Lucha",
+            "Planta,Siniestro,Psiquico",
+            "Planta,Psiquico,Volador",
+            "Volador,Tierra,Lucha"
         ],
-        "correctAnswer": "Planta,Lucha"
+        "correctAnswer": 1
     },
     {
         "id": 50,
         "question": "¿A qué tipos de Pokémon es débil el tipo Bicho?",
         "answers": [
-            "Fuego,Volador,Roca,Hada",
-            "Volador,Fuego,Hada,Roca",
-            "Hada,Roca,Volador,Fuego",
-            "Roca,Volador,Hada,Fuego"
+            "Fuego,Volador,Hada",
+            "Agua,Fuego,Hada",
+            "Hada,Roca,Volador",
+            "Roca,Volador,Fuego"
         ],
-        "correctAnswer": "Fuego,Volador,Roca"
+        "correctAnswer": 3
     },
     {
         "id": 51,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Bicho?",
         "answers": [
-            "Lucha,Planta,Insecto,Eléctrico",
-            "Insecto,Lucha,Planta,Fuego",
-            "Planta,Insecto,Fuego,Lucha",
-            "Fuego,Lucha,Insecto,Planta"
+            "Bicho",
+            "Ninguno",
+            "Planta",
+            "Fuego"
         ],
-        "correctAnswer": "Insecto,Planta"
+        "correctAnswer": 1
     },
     {
         "id": 52,
         "question": "¿A qué tipos de Pokémon es fuerte el tipo Normal?",
         "answers": [
-            "Lucha,Hielo,Roca,Acero",
-            "Roca,Lucha,Hielo,Volador",
-            "Hielo,Lucha,Roca,Volador",
-            "Volador,Hielo,Lucha,Roca"
+            "Acero",
+            "Volador",
+            "Hielo",
+            "Ninguno"
         ],
-        "correctAnswer": "Lucha,Hielo,Roca"
+        "correctAnswer": 3
     },
     {
         "id": 53,
         "question": "¿A qué tipos de Pokémon es débil el tipo Normal?",
         "answers": [
-            "Lucha,Fantasma,Roca,Bicho",
-            "Fantasma,Lucha,Roca,Bicho",
-            "Lucha,Fantasma,Bicho,Roca",
-            "Roca,Lucha,Bicho,Fantasma"
+            "Roca",
+            "Bicho",
+            "Lucha",
+            "Fantasma"
         ],
-        "correctAnswer": "Lucha,Fantasma"
+        "correctAnswer": 2
     },
     {
         "id": 54,
         "question": "¿A qué tipos de Pokémon es inmune el tipo Normal?",
         "answers": [
-            "Fantasma,Psíquico,Hada,Bicho",
-            "Psíquico,Fuego,Fantasma,Hada",
-            "Fantasma,Bicho,Hada,Psíquico",
-            "Bicho,Hada,Fantasma,Psíquico"
+            "Bicho",
+            "Psíquico",
+            "Hada",
+            "Fantasma"
         ],
-        "correctAnswer": "Fantasma"
+        "correctAnswer": 3
     }
 ]
